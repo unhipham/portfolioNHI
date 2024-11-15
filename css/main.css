@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("timeline.css");
+*{ scroll-behavior: smooth}
+
+text-decoration:none}
+.texthello{
+	color: #F05682
+}
+.textnoidung{
+	color: #E5E5E5
+}
+.texttieude{
+	color: #0C58FF
+}
+.textwamu{
+	color: #D64B00
+}
+.textmaga{
+	color: violet
+}
+.texthoami{
+	color: #B10002
+}
+.textxanhla{
+	color: #4AA446
+}
+.textps{
+	color: #1395D3
+}
+.textblack{
+	color: #161616
+}
+.textxanhdam{
+	color: #005941
+}
+
+
+
